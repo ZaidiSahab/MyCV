@@ -1,0 +1,247 @@
+/* 
+@media screen and  (300px <= width <=800px) {
+
+   .all-links{
+ 
+ 
+     
+            }
+} */
+
+/* 
+
+ @media screen and  (500px <= width <=1300px) {
+
+ .all-links{
+   display: block;
+ }
+ 
+ a{
+   display: none;
+
+   }
+       
+}  */
+ 
+ 
+@media screen and (max-width: 800px) {
+    
+ 
+   .all-links{
+ 
+/* height: 90px; */
+       /* width: 30%; */
+      }
+
+
+
+
+      .link{
+       
+      }
+   
+   .both{
+      display:  flex;
+      flex-direction: column;
+       
+   }
+
+ .f-half{
+   border: none;
+ }
+ 
+         .skills{
+            border-color: rebeccapurple;
+         }
+       
+   } 
+ 
+
+
+
+ul{
+
+
+  color:rebeccapurple ;
+ }
+
+ h2:hover{
+
+  color: tomato;
+ }
+
+ .contact:hover{
+color: rgb(255, 149, 11);
+ }
+ .header{
+    color: rgb(255, 255, 255);
+    background-color: #1b2a51;
+    background-size: cover;
+
+    padding: 20px;
+    border-bottom: 3px solid black; 
+    position: sticky;
+}
+
+ .profile{
+     color: rgb(255, 255, 255);
+ }
+
+ b{
+    float: left;
+    margin-top: inherit;
+ }
+
+ .contact{
+   border-bottom: 1.5px dashed gray;
+font-size: small;
+ }
+
+ .mustafa-img{
+    border-radius: 30px;
+    border: 0.2px solid wheat;
+    cursor: grab;
+ }
+
+
+ .education{
+
+        font-size: small;
+        border-bottom: 1.5px dashed gray;
+
+ }
+
+ .f-half{
+
+     
+    padding: 5px 0px 0px 30px;
+    width: 50%;
+
+
+ }
+
+ .s-half{
+
+    /* border: 2px solid rgb(128, 0, 0); */
+    padding: 5px 0px 0px 30px;
+    width: 50%;
+    border-bottom: inset;
+ }
+
+ .both{
+    display: flex;
+background-color: rgb(255, 255, 255);
+ }
+
+ .skills{
+
+   border-bottom: 1.5px dashed gray;
+
+
+        font-size: small;
+
+ }
+
+ .courses{
+    font-size: small;
+    border-bottom: 1.5px dashed gray;
+ 
+ }
+
+ .link{
+color: rgb(0, 0, 0);
+width: 20%;
+font-size: xx-small;
+ /* display: flex; */
+ /* width: 9%; */
+ /* justify-content: center; */
+}
+
+
+.all-links{
+   
+   border-radius: 5px;
+    border: 2px solid rgb(0, 255, 229);
+width: 30%;
+background-color: rgb(255, 140, 0);
+ text-align: center;
+   padding: 10px;
+ 
+position: static;
+  top: 50%;
+  left: 50%;
+  transform: translate(100%, 15%);
+
+}
+.up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.fb:hover{
+ cursor: grab;
+border: 2px solid rgb(124, 0, 124);
+position: static;
+ 
+/* width: 50%; */
+}
+
+
+.in:hover{
+   cursor: grab;
+   border: 2px solid purple;
+   position: static;
+}
+
+.wh:hover{
+   cursor: grab;
+   border: 2px solid purple;
+   position:  static;
+
+
+
+    
+
+}
+.tik:hover{
+
+   cursor: grab;
+ 
+      border: 2px solid purple;
+      position: static;
+       
+      /* width: 50%; */
+   
+
+}
+
+.l-img{
+
+}
+
+
+ 
+
+
+
+#html{
+
+}
+#css{
+
+}
+#js{
+
+}
+#es{
+
+}
+#ex{
+
+}
+#react{
+
+}
